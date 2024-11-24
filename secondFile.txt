@@ -5,3 +5,4 @@ made changes before switcihing to anoter banch
 addinf for generating cinflict
 
 sdfghjkl;
+addinga quick fix
