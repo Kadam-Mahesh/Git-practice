@@ -6,4 +6,4 @@ addinf for generating cinflict
 
 sdfghjkl;
 ading again line
-schanging line
+schanging line.....
